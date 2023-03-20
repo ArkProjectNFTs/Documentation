@@ -39,4 +39,6 @@ We strongly believe that Validity Proof Technology, particularly [ZK Rollup](htt
 
 Having learned from past mistakes made on Ethereum [(Layer 1)](https://ethereum.org/en/layer-2/), we're committed to setting strong standards from day one within the Starknet ecosystem [(Layer 2)](https://ethereum.org/en/layer-2/). To create a sustainable environment for creators, we're implementing creator royalties within our protocol. This way, creators can focus on building for the long term with confidence.
 
+## Research done during the Tel aviv Hackathon
+
 https://www.figma.com/file/TE2LdAJUgHNuVn0IYxK9NL/NFT-EXCHANGE-PROTOCOL-VISION?node-id=0%3A1&t=ps5WxTqDr8RkKZiU-1
